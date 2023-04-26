@@ -7,7 +7,7 @@ Software Engineer | Web Developer | Veteran
 I'm a Full-Stack Software Engineer who is passionate about learning and growing. Feel free to look around, and before you go, check out my Portfolio.
 
 * 🌍  I'm based in Bremerton, WA
-* 🖥️  See my portfolio at [https://www.alexandercobble.com/](http://https://www.alexandercobble.com/)
+* 🖥️  See my portfolio at [https://www.alexandercobble.com/](https://www.alexandercobble.com/)
 * ✉️  You can contact me at [alex.cobble42@gmail.com](mailto:alex.cobble42@gmail.com)
 * 🧠  I'm learning JavaScript, TypeScript, and C++
 
