@@ -7,7 +7,6 @@ Software Engineer | Web Developer | Veteran
 I'm a Full-Stack Software Engineer who is passionate about learning and growing. Feel free to look around, and before you go, check out my Portfolio.
 
 * 🌍  I'm located in Bremerton, WA
-* 🖥️  See my portfolio at [https://www.alexandercobble.com/](https://www.alexandercobble.com/)
 * ✉️  You can contact me at [alex.cobble42@gmail.com](mailto:alex.cobble42@gmail.com)
 * 🧠  I'm learning JavaScript, TypeScript, and C++
 
@@ -87,10 +86,6 @@ I'm a Full-Stack Software Engineer who is passionate about learning and growing.
 
 <a href="http://www.github.com/A-Cobble">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Cobble&stroke=a855f7&background=181824&ring=3382ed&fire=3382ed&currStreakNum=a855f7&currStreakLabel=3382ed&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" />
-</a>
-
-<a href="http://www.github.com/A-Cobble">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=A-Cobble&bg_color=181824&color=a855f7&line=ffffff&point=a855f7&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 </a>
 
 <b>Top Repositories</b>
