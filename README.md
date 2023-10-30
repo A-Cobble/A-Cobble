@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Web Developer | Veteran
 -------------------------------------------
 
-I'm a Full-Stack Software Engineer who is passionate about learning and growing. Feel free to look around, and before you go, check out my Portfolio.
+I'm a Full-Stack Software Engineer who is passionate about learning and growing. I am currently pursuing a B.S. in Computer Science and Systems from the University of Washington Tacoma. Feel free to look around.
 
 * 🌍  I'm located in Bremerton, WA
 * ✉️  You can contact me at [alex.cobble42@gmail.com](mailto:alex.cobble42@gmail.com)
-* 🧠  I'm learning JavaScript, TypeScript, and C++
+* 🧠  I'm learning JavaScript, TypeScript, Java, and C++
 
 ### Skills
 
