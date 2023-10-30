@@ -80,14 +80,6 @@ I'm a Full-Stack Software Engineer who is passionate about learning and growing.
 </p>
 <br /><br />
 
-<a href="http://www.github.com/A-Cobble">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-Cobble&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=a855f7&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="A-Cobble's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/A-Cobble">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Cobble&stroke=a855f7&background=181824&ring=3382ed&fire=3382ed&currStreakNum=a855f7&currStreakLabel=3382ed&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" />
-</a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
